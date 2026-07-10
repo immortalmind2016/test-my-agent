@@ -6,5 +6,8 @@
   "description": "Throwaway target repo for testing the HeronAgent coding agent.",
   "scripts": {
     "test": "node --test"
+  },
+  "dependencies": {
+    "@heronsignal/node": "^0.1.2"
   }
 }
